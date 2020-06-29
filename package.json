@@ -1,0 +1,17 @@
+{
+  "name": "maskedbot",
+  "version": "0.2.1",
+  "description": "A bot, which changes everything...",
+  "main": "Main.js",
+  "keywords": [
+    "MaskedBot"
+  ],
+  "author": "triggeredLife",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "mysql": "^2.18.1",
+    "ytdl-core": "^2.0.0"
+  }
+}
